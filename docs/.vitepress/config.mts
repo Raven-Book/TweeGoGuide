@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/TweeGoGuide/',
   title: "TweeGo Guide",
   description: "TweeGo 开发手册",
   themeConfig: {
