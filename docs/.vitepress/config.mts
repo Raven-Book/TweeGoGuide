@@ -28,7 +28,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Raven-Book/TweeGoGuide' }
     ],
     footer: {
       copyright: "Copyright © 2024–Present Black Star"
