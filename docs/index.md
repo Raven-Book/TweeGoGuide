@@ -12,7 +12,7 @@ hero:
       link: /开发工具/准备工作
     - theme: alt
       text: 正式开始
-      link: /开发工具/Git的使用
+      link: /正式开始/TweeGo起步
 
 features:
   - title: 文档愿景

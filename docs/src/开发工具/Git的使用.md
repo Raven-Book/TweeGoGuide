@@ -123,7 +123,7 @@ git clone https://github.com/Raven-Book/TweeGoGuide.git
 
     ```bash
     git init demo1 # demo1是具体的项目名，该命令会创建一个文件夹
-    git init . # 如果已经在当前文件夹使用 git init .
+    git init . # 在当前文件夹初始化
     ```
 
     存在远程仓库
@@ -145,7 +145,7 @@ git clone https://github.com/Raven-Book/TweeGoGuide.git
     git commit -m "chore(1.txt): 新增了文件1.txt"
     ```
 
-    不加-m也行，他会打开文本编辑器一般是`vi`或`vim`（存疑）。
+    不加-m也行，默认会打开文本编辑器是`vi`或`vim`（存疑）。
 
     打开后，点击i键切换为insert模式。输入提交文本，`:wq` 退出保存。
     ![alt text](../../images/Git的使用/image-6.png)

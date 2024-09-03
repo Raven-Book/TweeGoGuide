@@ -23,7 +23,7 @@ export default defineConfig({
       {
         text: '正式开始',
         items: [
-          { text: '环境部署', link: '' },
+          { text: 'TweeGo 起步', link: '/正式开始/TweeGo起步' },
         ]
       }
     ],
