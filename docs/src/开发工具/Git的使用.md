@@ -11,14 +11,7 @@
 
 // TODO 施工中
 
-### 1.2 使用VsCode 编辑本文档
 
-```bash
-cd <文档路径>
-code .
-```
-或者点击图标后打开VsCode，打开指定文件夹
-![alt text](../../images/Git的使用/image-7.png)
 
 ## 2. Git
 > [!WARNING]
