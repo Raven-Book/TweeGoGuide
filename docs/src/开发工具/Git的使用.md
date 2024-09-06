@@ -7,9 +7,10 @@
 
 [[toc]]
 
+// TODO 施工中，内容还未完善
+
 ## 1. 如何编辑本文档？
 
-// TODO 施工中
 
 
 
@@ -25,24 +26,9 @@ git config --global user.email "johndoe@example.com"
 ```
 
 `John Doe` 和 `johndoe@example.com`  替换为注册GitHub时使用的邮箱和用户名。需要注意的是如果仓库公开，邮箱是会一起被公开。
-
-如果不知道如何打开命令行，请参考下文：
-
-1. Windows + R，输入`cmd`或`powershell`
-    ![powershell](../../images/Git的使用/image-2.png)
-2. Windows搜索框搜索
-    ![alt text](../../images/Git的使用/image-3.png)
-3. 微软开源小工具[PowerToys Run](https://learn.microsoft.com/zh-cn/windows/powertoys/)，使用 alt + space（空格）可呼出，回车或点击打开。
-    ![alt text](../../images/Git的使用/image-4.png)
-4. 如果使用VS Code，右键左侧资源管理器的空白处，点击在集成终端打开。
-    ![alt text](../../images/Git的使用/image-8.png)
-    ![alt text](../../images/Git的使用/image-9.png)
-    如果安装了[GitLen插件](准备工作.md)可以在右侧栏管理Git。
-    ![alt text](../../images/Git的使用/image-10.png)
----
 ### 2.1 Git的基本操作
 
-Git是版本控制系统，而所谓版本控制其本质是记录对文件的修改（包括删除、新增、创建），且可以随时查看、回退到某一次修改。
+Git是版本控制系统，本质是记录文件的修改（包括删除、新增、创建），且可以查看或回退到某一次修改。
 
 按照[Git官方中文文档](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)中对这方面进行了详细的叙述。文中举的例子能明确看出Git到底是用来干什么的：
 
