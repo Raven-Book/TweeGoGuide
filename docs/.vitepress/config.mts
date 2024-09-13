@@ -17,6 +17,7 @@ export default defineConfig({
         text: '开发工具',
         items: [
           { text: '准备工作', link: '/开发工具/准备工作' },
+          { text: 'Cordova 打包', link: '/开发工具/Cordova'},
           { text: 'Git的使用', link: '/开发工具/Git的使用' }
         ]
       },
