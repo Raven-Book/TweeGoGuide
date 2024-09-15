@@ -28,6 +28,13 @@ export default defineConfig({
           { text: 'TweeGo 起步', link: '/正式开始/TweeGo起步' },
           { text: "方糖常见问题", link: "/正式开始/方糖常见问题"},
         ]
+      },
+      {
+        text: '黑星的Macro合集',
+        items: [
+          { text: "宏列表 第一弹", link: "/黑星的Macro合集/宏列表 第一弹"},
+      
+        ]
       }
     ],
     socialLinks: [
