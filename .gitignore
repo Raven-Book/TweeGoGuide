@@ -100,3 +100,6 @@ node_modules/
 # Vue.js And Theme
 **/.vitepress/cache
 **/.vitepress/Theme
+
+# Test Js
+src/js/test
