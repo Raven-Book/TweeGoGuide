@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '开发工具', link: '/开发工具/准备工作' }
+      { text: 'Macros', link: '/黑星的Macro合集/宏列表 第一弹' },
+      { text: '爱发电', link: 'https://afdian.com/a/ravenbook'}
     ],
 
     sidebar: [
