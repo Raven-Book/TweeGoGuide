@@ -147,7 +147,7 @@ tweego -f snowman -o example_3.html example_3.twee
 ```
 :::
 
-另外，如果如果拆分成多个文件使用，可以下载项目仓库里的示例，或者在 [Release](https://github.com/Raven-Book/TweeGoGuide/releases/download/V0.1.0/example-1.zip)下载 `example-1.zip` 。
+另外，如果如果拆分成多个文件使用，可以下载项目仓库里的示例，或者在 [Release](https://github.com/Raven-Book/twee-example/archive/refs/heads/master.zip)下载 `example-1.zip` 。
 
 解压后用vscode打开，在终端使用 `tweego.exe -o index.html .\js\ .\src\` 即可编译为index.html。
 
