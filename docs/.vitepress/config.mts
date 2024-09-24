@@ -5,6 +5,7 @@ export default defineConfig({
   base: '/TweeGoGuide/',
   title: "TweeGo Guide",
   description: "TweeGo 开发手册",
+  head: [],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
