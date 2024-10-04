@@ -28,6 +28,7 @@ export default defineConfig({
         items: [
           { text: "前置知识", link: "/正式开始/前置知识"},
           { text: 'TweeGo 起步', link: '/正式开始/TweeGo起步' },
+          { text: '变量、对象与流程控制', link:'/正式开始/变量、对象与流程控制'},
           { text: "方糖常见问题", link: "/正式开始/方糖常见问题"},
         ]
       },
