@@ -1,0 +1,6 @@
+{
+    "markdown.copyFiles.destination": {
+        "**/*.md": "/docs/images/${documentBaseName}/${fileName}"
+    },
+    "twee3LanguageTools.storyformat.current": "sugarcube-2"
+}
